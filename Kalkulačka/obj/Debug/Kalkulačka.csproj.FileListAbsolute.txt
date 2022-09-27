@@ -1,0 +1,7 @@
+C:\Users\vintr.to.2022\source\repos\Kalkulačka\Kalkulačka\bin\Debug\Kalkulačka.exe.config
+C:\Users\vintr.to.2022\source\repos\Kalkulačka\Kalkulačka\bin\Debug\Kalkulačka.exe
+C:\Users\vintr.to.2022\source\repos\Kalkulačka\Kalkulačka\bin\Debug\Kalkulačka.pdb
+C:\Users\vintr.to.2022\source\repos\Kalkulačka\Kalkulačka\obj\Debug\Kalkulačka.csprojAssemblyReference.cache
+C:\Users\vintr.to.2022\source\repos\Kalkulačka\Kalkulačka\obj\Debug\Kalkulačka.csproj.CoreCompileInputs.cache
+C:\Users\vintr.to.2022\source\repos\Kalkulačka\Kalkulačka\obj\Debug\Kalkulačka.exe
+C:\Users\vintr.to.2022\source\repos\Kalkulačka\Kalkulačka\obj\Debug\Kalkulačka.pdb
